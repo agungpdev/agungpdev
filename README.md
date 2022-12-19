@@ -6,13 +6,13 @@
 <h4>My Goals 2025</h4>
 <p>Hi, I am a professional web developer. Currently I am interested in learning the latest technology from the website, namely Web 3. where Web 3 uses blockchain technology to communicate with each other. I'm currently learning Javascript to compete with fellow developers later on Web 3.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agungpdev&label=Profile%20views&color=0e75b6&style=flat" alt="fadilgemilang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agungpdev&label=Profile%20views&color=0e75b6&style=flat" alt="agungperdana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/agungpdev" target="blank"><img src="https://img.shields.io/twitter/follow/fadilgemilang?logo=twitter&style=for-the-badge" alt="fadilgemilang" /></a> </p>
+<p align="left"> <a href="https://twitter.com/agungpdev" target="blank"><img src="https://img.shields.io/twitter/follow/agungpdev?logo=twitter&style=for-the-badge" alt="agungperdana" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript and Course in Dicoding**
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/agungpdev](https://dribbble.com/fadilgemilang)
+- 👨‍💻 All of my projects are available at [https://dribbble.com/agungpdev](https://dribbble.com/agungpdev)
 
 - 💬 Ask me about **vanila javascript, react and sass**
 
@@ -24,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/fadilgemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fadilgemilang" height="30" width="40" /></a>
-<a href="https://twitter.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadilgemilang" height="30" width="40" /></a>
+<a href="https://codepen.io/fadilgemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="agungperdana" height="30" width="40" /></a>
+<a href="https://twitter.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agungperdana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agungperdana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agungperdana" height="30" width="40" /></a>
-<a href="https://instagram.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadilgemilang_" height="30" width="40" /></a>
-<a href="https://dribbble.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fadilgemilang" height="30" width="40" /></a>
+<a href="https://instagram.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agungperdana" height="30" width="40" /></a>
+<a href="https://dribbble.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="agungperdana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fadil gemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadil gemilang" height="30" width="40" /></a>
 </p>
 
@@ -58,7 +58,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilgemilang&show_icons=true&locale=en&layout=compact" alt="fadilgemilang" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agungpdev&show_icons=true&locale=en&layout=compact" alt="agungperdana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadilgemilang&show_icons=true&locale=en" alt="fadilgemilang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agungpdev&show_icons=true&locale=en" alt="agungperdana" /></p>
 
