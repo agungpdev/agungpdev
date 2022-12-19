@@ -6,7 +6,7 @@
 <h4>My Goals 2025</h4>
 <p>Hi, I am a professional web developer. Currently I am interested in learning the latest technology from the website, namely Web 3. where Web 3 uses blockchain technology to communicate with each other. I'm currently learning Javascript to compete with fellow developers later on Web 3.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilgemilang&label=Profile%20views&color=0e75b6&style=flat" alt="fadilgemilang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agungpdev&label=Profile%20views&color=0e75b6&style=flat" alt="fadilgemilang" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fadilgemilang" target="blank"><img src="https://img.shields.io/twitter/follow/fadilgemilang?logo=twitter&style=for-the-badge" alt="fadilgemilang" /></a> </p>
 
