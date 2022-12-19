@@ -1,7 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/50897936/198192846-f0b7ddea-8dd8-498a-b3cc-0bbda087d8c9.png)
 
 
-<h1 align="center">Hi 👋, I'm @fadilgemilang or Agung perdana</h1>
+<h1 align="center">Hi 👋, I'm Agung perdana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <h4>My Goals 2025</h4>
 <p>Hi, I am a professional web developer. Currently I am interested in learning the latest technology from the website, namely Web 3. where Web 3 uses blockchain technology to communicate with each other. I'm currently learning Javascript to compete with fellow developers later on Web 3.</p>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript and Course in Dicoding**
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/fadilgemilang](https://dribbble.com/fadilgemilang)
+- 👨‍💻 All of my projects are available at [https://dribbble.com/agungpdev](https://dribbble.com/fadilgemilang)
 
 - 💬 Ask me about **vanila javascript, react and sass**
 
@@ -25,10 +25,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fadilgemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fadilgemilang" height="30" width="40" /></a>
-<a href="https://twitter.com/fadilgemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadilgemilang" height="30" width="40" /></a>
+<a href="https://twitter.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadilgemilang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agungperdana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agungperdana" height="30" width="40" /></a>
-<a href="https://instagram.com/fadilgemilang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadilgemilang_" height="30" width="40" /></a>
-<a href="https://dribbble.com/fadilgemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fadilgemilang" height="30" width="40" /></a>
+<a href="https://instagram.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadilgemilang_" height="30" width="40" /></a>
+<a href="https://dribbble.com/agungpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fadilgemilang" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fadil gemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadil gemilang" height="30" width="40" /></a>
 </p>
 
