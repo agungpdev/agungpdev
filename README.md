@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript and Course in Dicoding**
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/agungpdev](https://agungperdana.com)
+- 👨‍💻 All of my projects are available at [https://agungperdana.com](https://agungperdana.com)
 
 - 💬 Ask me about **vanila javascript, react and sass**
 
