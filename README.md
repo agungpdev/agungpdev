@@ -1,4 +1,4 @@
-![White Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/50897936/198192846-f0b7ddea-8dd8-498a-b3cc-0bbda087d8c9.png)
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/50897936/210029167-10740b99-bb30-4e97-82a2-ddbe49a88222.png)
 
 
 <h1 align="center">Hi 👋, I'm Agung perdana</h1>
